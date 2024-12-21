@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "b8a8069ab0d33f55",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1dde843a514b275",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e5fa39bd7477986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/test-new-note-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test-new-note-1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "003af9ddb215e8e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bc3c1c1cfd11f5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afe674be4c4a9eb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a3afd2425b16f998",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e6947cb0125f5ab2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f30150f23e993dfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0dee78cf8122762",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b45e673109019f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/test-new-note-1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for test-new-note-1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "9e5fa39bd7477986",
+  "lastOpenFiles": [
+    "posts/postable-thought.md",
+    "posts/large-hadron-collider.md",
+    "posts/test-new-note-1.md",
+    "posts/formerly-privateish-thought.md",
+    "books/refactoring-ui.md",
+    "books/atomic-habits.md",
+    "books/dont-make-me-think.md",
+    "_assets/Screenshot 2024-12-20 at 21.27.13.png",
+    "posts/Untitled.canvas",
+    "templates/post.md"
+  ]
+}
